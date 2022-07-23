@@ -7,6 +7,14 @@ C
 Bash
 etc etc.
 ```
+# Installation
+```
+git clone https://github.com/KuriWasTaken/RAT-Toolkit.git
+cd RAT-Toolkit
+python3 setup.py
+
+python3 ratkit.py -h
+```
 
 # Info
 Rat-Toolkit is not a replacement for MetaSploit but rather a tool I developed for fun
