@@ -8,7 +8,7 @@ Bash
 etc etc.
 ```
 
-#Info
+# Info
 Rat-Toolkit is not a replacement for MetaSploit but rather a tool I developed for fun
 
 As I am a full time student and am only working on this in my freetime consider donating here:
@@ -21,7 +21,7 @@ Kuri#1686
 Also if you do write any cool exploits for Rat-ToolKit, hit me up over on discord and I can add them into the tool!
 Please also report bugs/errors to me on discord and I will get to fixing them!
 
-#Tutorials
+# Tutorials
 Writing exploits for Rat-Toolkit is simple!
 
 Make a empty document with no extension and place it into CustomExploits.
