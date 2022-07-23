@@ -1,0 +1,3 @@
+Exploit:.py
+import os
+os.system("nmap -T4 -A REMOTEADDR")
